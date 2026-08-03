@@ -1,2 +1,2 @@
 # SAA-CO3
-A repo tracking mt AWS Coursework.
+A repo tracking my AWS Coursework.
